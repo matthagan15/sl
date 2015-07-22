@@ -63,6 +63,11 @@ int my_mvaddstr(int y, int x, char *str)
     return OK;
 }
 
+//bruh
+//whynot
+//##
+//merggeeezz
+
 void option(char *str)
 {
     extern int ACCIDENT, FLY, LONG;
